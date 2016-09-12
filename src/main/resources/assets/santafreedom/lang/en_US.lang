@@ -1,0 +1,11 @@
+item.santafreedom:flag.name=Flag o' Freedom
+item.santafreedom:freedom_bucket.name=Bucket o' Freedom
+item.santafreedom:american_flavoring.name=American Flavoring
+item.santafreedom:fried_chicken.name=Bucket o' Fried Chicken
+item.santafreedom:mtn_dew.name=Bucket o' MTN Dew
+item.santafreedom:freedom_bread.name=Bread o' Freedom
+item.santafreedom:freedom_pie.name=Pie o' Freedom
+
+santafreedom.tooltip.tasteslikeamerica=What does it taste like? America.
+
+itemGroup.Freedom=Tab o' Freedom
