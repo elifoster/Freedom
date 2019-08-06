@@ -1,0 +1,11 @@
+item.santafreedom:flag.name=Флаг Свободы
+item.santafreedom:freedom_bucket.name=Ведро Свободы
+item.santafreedom:american_flavoring.name=Американская приправа
+item.santafreedom:fried_chicken.name=Ведро жареной курицы
+item.santafreedom:mtn_dew.name=Ведро MNT Dew
+item.santafreedom:freedom_bread.name=Хлеб Свободы
+item.santafreedom:freedom_pie.name=Пирог Свободы
+
+santafreedom.tooltip.tasteslikeamerica=Какой он на вкус? Как Америка.
+
+itemGroup.Freedom=Вкладка Свободы
